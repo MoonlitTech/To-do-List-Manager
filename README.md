@@ -1,7 +1,5 @@
 # To-do-List-Manager
 
-# Project Name
-
 ## Description
 Briefly explain what the project is and what problem it solves.
 
