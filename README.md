@@ -1,19 +1,21 @@
 # To-do-List-Manager
 
 ## Description
-Briefly explain what the project is and what problem it solves.
+Create a Python command-line application that allows users to organize and manage their daily tasks by adding, viewing, completing, and deleting tasks. 
 
 ## Goal
-Explain the purpose of creating this project and what you want to learn or accomplish.
+Practice building a complete Python application from start to finish and improve problem-solving and programming skills by using this projrct to learn how to plan, document, and manage a software project using GitHub.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Add a task.
+- View all tasks.
+- Mark a task as complete.
+- Delete a task.
+- Save tasks to a file.
+- Load tasks from a file.
 
 ## Technologies Used
-- Python
-- Libraries/tools used
+- Python 
 
 ## How to Run
 Explain how someone can download and run the project.
@@ -22,8 +24,13 @@ Explain how someone can download and run the project.
 Briefly describe the important files and folders.
 
 ## Future Improvements
-- Possible feature additions
-- Improvements you would like to make
+- Add due dates.
+- Add task priorities.
+- Organize tasks into categories.
+- Search for specific tasks.
+- Sort tasks by priority or completion status.
+- Add colored terminal output.
+- Add reminders or notifications.
 
 ## Author
-Your name
+Brianna Williams 
