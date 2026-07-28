@@ -20,9 +20,6 @@ Practice building a complete Python application from start to finish and improve
 ## How to Run
 Explain how someone can download and run the project.
 
-## Project Structure
-Briefly describe the important files and folders.
-
 ## Future Improvements
 - Add due dates.
 - Add task priorities.
