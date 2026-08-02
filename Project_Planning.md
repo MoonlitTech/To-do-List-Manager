@@ -5,19 +5,19 @@
 **Description:** Create a Python command-line application that allows users to organize and manage their daily tasks by adding, viewing, completing, and deleting tasks.
 
 ### Project Goal
-- Practice building a complete Python application from start to finish
-- Improve problem-solving and programming skills
-- Learn how to plan, document, and manage a software project using GitHub
+- Practice building a complete Python application from start to finish 
+- Improve problem-solving and programming skills 
+- Learn how to plan, document, and manage a software project using GitHub 
 
 ### Problem Statement
-- This project provides an easy-to-use solution for managing daily responsibilities
+- This project provides an easy-to-use application for managing responsibilities 
 
 ### Project Features
-- Allow users to add new tasks
-- Display all existing tasks
-- Mark tasks as completed
-- Delete tasks
-- Save tasks so they remain after the program closes
+- Allow users to add new tasks 
+- Display all existing tasks 
+- Mark tasks as completed 
+- Delete tasks 
+- Save tasks so they remain after the program closes 
 - Load saved tasks when the program starts
 
 ### Program Flow
