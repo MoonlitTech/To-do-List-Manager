@@ -1,33 +1,20 @@
 # To-do-List-Manager
 
 ## Description
-Create a Python command-line application that allows users to organize and manage their daily tasks by adding, viewing, completing, and deleting tasks. 
+The Python To-Do List Manager is a command-line application designed to help users organize and manage their daily tasks. Users can create tasks, view their current tasks, mark tasks as completed, and remove tasks they no longer need. This project focuses on building a complete application from the ground up while practicing important programming concepts and software development practices. 
 
 ## Goal
-Practice building a complete Python application from start to finish and improve problem-solving and programming skills by using this projrct to learn how to plan, document, and manage a software project using GitHub.
+The goal of this project was to strengthen my Python programming and problem-solving skills by developing a complete application from the planning stage to the finished product. This project allowed me to practice designing a program structure, applying programming concepts to create a functional tool, and managing code with GitHub.
 
 ## Features
-- Add a task.
-- View all tasks.
-- Mark a task as complete.
-- Delete a task.
-- Save tasks to a file.
-- Load tasks from a file.
+- Add new tasks to a personal task list.
+- View all current tasks and their completion status.
+- Mark tasks as completed.
+- Delete tasks from the list.
+- Save tasks using JSON file storage.
+- Load saved tasks when the program is restarted.
 
 ## Technologies Used
-- Python 
-
-## How to Run
-Explain how someone can download and run the project.
-
-## Future Improvements
-- Add due dates.
-- Add task priorities.
-- Organize tasks into categories.
-- Search for specific tasks.
-- Sort tasks by priority or completion status.
-- Add colored terminal output.
-- Add reminders or notifications.
-
-## Author
-Brianna Williams 
+- Python
+- JSON File Storage
+- GitHub for version control and project management
