@@ -121,13 +121,18 @@ Allows the user to choose a task and updates the dictionary value from incomplet
 def complete_task():
     if len(tasks) != 0: 
         view_task()
-        user_comp = int(input("Enter a task to complete: "))
+        user_comp = input("Enter a task to complete: ")
         
-        if user_comp >= 1 and user_comp <= len(tasks): 
-            tasks[user_comp - 1]["status"] = True 
-            print("Task is now completed!")
-        else: 
-            print("Invalid input.")
+        # Checks if user entered a number 
+        if user_comp.isdigit():
+            user_comp = int(user_comp)
+            if user_comp >= 1 and user_comp <= len(tasks): 
+                tasks[user_comp - 1]["status"] = True 
+                print("Task is now completed!")
+            else: 
+                print("Invalid input.")
+        else:
+            print("Please enter a number.")
         view_task()
     else: 
         print("No tasks available.")
